@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoolMaths", "CoolMaths\CoolMaths.csproj", "{2640FB22-8580-4BEA-BC7E-E8499CB3D39C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2640FB22-8580-4BEA-BC7E-E8499CB3D39C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2640FB22-8580-4BEA-BC7E-E8499CB3D39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2640FB22-8580-4BEA-BC7E-E8499CB3D39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2640FB22-8580-4BEA-BC7E-E8499CB3D39C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C6962B2-56D9-427D-9884-94A44B89325D}
+	EndGlobalSection
+EndGlobal
